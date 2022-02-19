@@ -13,8 +13,8 @@ Modelos de estudio de demanda electrica.(Predicción de demanda eléctrica.ipynb
 
 Red neuronal de memoria corta (LSTM)
 
-Datos (DOMW.csv)
-Notebook.(Predicción de demanda eléctrica con LSTM)
+Datos (DOM_hourly.csvOMW.csv)
+Notebook.(Predicción de demanda eléctrica con LSTM.ipynb)
 
 
 
