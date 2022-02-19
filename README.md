@@ -7,11 +7,11 @@ se enfatizara en el uso de Skforecast de Machine Learning clásico como una herr
 
 Contenido:
 
-Presentación de generalidades de Forecasting.
+1.Presentación de generalidades de Forecasting.
 
-Modelos de estudio de demanda electrica.(Predicción de demanda eléctrica.ipynb)
+2.Modelos de estudio de demanda electrica con SKFORECAST.(Predicción de demanda eléctrica.ipynb)
 
-Red neuronal de memoria corta (LSTM)
+3.Red neuronal de memoria corta (LSTM)
 
 Datos (DOM_hourly.csvOMW.csv)
 
