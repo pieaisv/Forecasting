@@ -14,8 +14,9 @@ Modelos de estudio de demanda electrica.(Predicción de demanda eléctrica.ipynb
 Red neuronal de memoria corta (LSTM)
 
 Datos (DOM_hourly.csvOMW.csv)
+
 Notebook.(Predicción de demanda eléctrica con LSTM.ipynb)
 
 
 
-Autor: Napoleón Alcides Pérez Arteaga
+Autor: Napoleón Alcides Pérez Arteaga https://www.linkedin.com/in/napole%C3%B3n-alcides-p%C3%A9rez-arteaga-194375114/
