@@ -5,5 +5,17 @@ y la aplicación fundamental de la arquitectura LSTM(Long Short Term Memory) par
 haciendo énfasis en el componente de estadística inferencial para modelar cualquier tipo de problema de Forecasting, 
 se enfatizara en el uso de Skforecast de Machine Learning clásico como una herramienta
 
+Contenido:
+
+Presentación de generalidades de Forecasting.
+
+Modelos de estudio de demanda electrica.(Predicción de demanda eléctrica.ipynb)
+
+Red neuronal de memoria corta (LSTM)
+
+Datos (DOMW.csv)
+Notebook.(Predicción de demanda eléctrica con LSTM)
+
+
 
 Autor: Napoleón Alcides Pérez Arteaga
