@@ -1,4 +1,4 @@
-# Forecasting
+# Forecasting (Example of using skforecast and lstm)
 
 En esta ponencia se presentaran los fundamentos básicos del aprendizaje profundo que incluye la teoría básicas de redes neuronales, 
 y la aplicación fundamental de la arquitectura LSTM(Long Short Term Memory) para la predicción de series temporales 
